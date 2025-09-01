@@ -1,0 +1,20 @@
+# Strings variables
+username: "admin"
+
+# Number variables (int/float)
+max_connections: 100
+
+# Boolean variable
+debug_mode: true
+
+# List variables
+packages:
+  - nginx
+  - postgresql
+  - git
+
+# Dictionary variables
+user:
+  name: "admin"
+  password: "secret"
+
